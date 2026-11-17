@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://riseva-technologies-website-3.vercel.app/sitemap.xml
